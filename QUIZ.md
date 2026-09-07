@@ -39,7 +39,9 @@ Guinea-Bissau, Lesotho, Djibouti, Chad, Tuvalu, Marshall Islands, Benin.
 | 3 correct | stay |
 | 2 or fewer correct | move down a tier |
 
-Reviews count in the window. Never jump two tiers at once, and never move on
+Reviews count in the window. A `miss-on-name` counts as **correct** for tier
+purposes — his capital recall was fine, so it is no evidence the questions are too
+hard. Never jump two tiers at once, and never move on
 fewer than five answers — early noise is not a signal. Once he is holding tier 3
 comfortably, stay there and mix in tier 2 roughly one day in four so it does not
 become uniformly brutal.
