@@ -21,6 +21,24 @@ next_review: YYYY-MM-DD | retired
 
 ---
 
+## 2026-09-07 — Senegal
+asked: new (tier 2)
+answer: "dakar"
+result: correct
+next_review: none
+
+## 2026-09-07 — Laos
+asked: new (tier 2)
+answer: "vientan"
+result: correct-with-typo (canonical: Vientiane; edit distance 2 on a 9-letter word, within tolerance)
+next_review: none
+
+## 2026-09-07 — Bolivia
+asked: new (tier 2)
+answer: "la paz"
+result: correct (Sucre would also have counted)
+next_review: none
+
 ## 2026-09-07 — Palau
 asked: new
 answer: "no idea"
