@@ -15,6 +15,27 @@ next_review: YYYY-MM-DD | retired
 
 ## Due for review
 
-_(none yet)_
+- 2026-09-10 — Palau
+- 2026-09-10 — Eswatini
+- 2026-09-10 — Suriname
 
 ---
+
+## 2026-09-07 — Palau
+asked: new
+answer: "no idea"
+result: miss
+next_review: 2026-09-10
+
+## 2026-09-07 — Eswatini
+asked: new
+answer: "no idea"
+result: miss
+next_review: 2026-09-10
+
+## 2026-09-07 — Suriname
+asked: new
+answer: "suriname"
+result: miss
+note: guessed the capital shares the country's name (the Djibouti/Guatemala pattern)
+next_review: 2026-09-10
