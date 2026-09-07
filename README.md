@@ -29,3 +29,16 @@ Edit `BRIEF.md` and push — the next morning's run picks it up automatically.
 No need to touch the schedule.
 
 Schedule changes (time, days, pausing) are made on the Routine itself, not here.
+
+## Schedule
+
+| Routine | ID | Schedule |
+|---|---|---|
+| Daily Curiosity — 9am weekdays | `trig_01DnHn2RWcGfEeMhXAEW8PZP` | `0 7 * * 1-5` UTC = 09:00 Europe/Warsaw, Mon–Fri |
+| DST flip | `trig_01GnyGJQsVgbyXCJEZWbAP9n` | one-shot 2026-10-25 |
+
+The cron is stored in UTC, so Warsaw's daylight-saving switches would drift the
+delivery by an hour twice a year. The DST flip routine corrects the cron on each
+switch and schedules the next flip before it exits, so it maintains itself.
+
+Each run fires a fresh session and sends a push notification when it's ready.
