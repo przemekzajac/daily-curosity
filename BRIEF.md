@@ -69,7 +69,15 @@ End on the turn — the detail that makes it land.>
 *Source: <specific source>*
 ```
 
-Then, on its own line, ask for the rating (see `FEEDBACK.md`).
+Then the rating ask (see `FEEDBACK.md`), then the Capital Quiz line (see `QUIZ.md`).
+
+The complete morning message is exactly three things, in this order:
+
+1. the curiosity
+2. `Hit or miss? (1–5, or just tell me what was off)`
+3. `Capital Quiz: <Country>?`
+
+Nothing else. No greeting, no sign-off, no commentary between them.
 
 ## Voice
 

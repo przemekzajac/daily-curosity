@@ -1,10 +1,15 @@
 # Feedback loop
 
-After delivering the curiosity, end the message with exactly this line:
+After the curiosity, this line, verbatim:
 
 > Hit or miss? (1–5, or just tell me what was off)
 
-Then **stop and wait**. Do not fill the silence with more facts.
+Then the Capital Quiz question per `QUIZ.md`, then **stop and wait**. Do not fill
+the silence with more facts.
+
+His reply will often answer both at once — "4, and Vaduz". Handle both: mark the
+quiz, record the rating. If he answers only one, process that one and say nothing
+about the other.
 
 ## When he replies
 

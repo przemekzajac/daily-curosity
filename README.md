@@ -11,8 +11,12 @@ A Routine fires a fresh Claude session each weekday morning. That session:
 2. Reads `BRIEF.md` (the taste), `TASTE.md` (learned refinements) and
    `log/sent.md` (what's already been sent, so nothing repeats).
 3. Researches and verifies one curiosity, then delivers it in chat.
-4. Asks for a 1–5 rating and waits.
-5. On reply: records the rating in `log/sent.md`, updates `TASTE.md`, pushes.
+4. Asks for a 1–5 rating, then asks the day's Capital Quiz question, and waits.
+5. On reply: records the rating in `log/sent.md`, updates `TASTE.md`, marks the
+   quiz answer in `log/quiz.md`, pushes.
+
+Both live in one routine because they run at the same time on the same days —
+two routines would mean two containers and two notifications at the same minute.
 
 ## The files
 
@@ -22,6 +26,8 @@ A Routine fires a fresh Claude session each weekday morning. That session:
 | `TASTE.md` | Learned preferences from ratings. Overrides `BRIEF.md`. |
 | `FEEDBACK.md` | How to ask for and process the rating. |
 | `log/sent.md` | Every curiosity sent, with its rating. Repeat-check + training data. |
+| `QUIZ.md` | Capital Quiz rules: difficulty, spelling tolerance, spaced repetition. |
+| `log/quiz.md` | Every country asked, the answer given, and the review schedule. |
 
 ## Changing it
 
