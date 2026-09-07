@@ -104,6 +104,32 @@ because the explanation is the interesting part:
 - **Nauru** — has no official capital at all; Yaren is where government sits.
   Accept Yaren, and the "there isn't one" answer is *more* correct.
 
+## Renamed countries
+
+Always ask under the country's **current** name — that's part of what the quiz is
+for. But when he misses, work out *which* thing he didn't know, because they need
+different fixes:
+
+- **Didn't know the capital** → ordinary miss, normal review schedule.
+- **Knew the capital, didn't recognise the country's current name** → log it as
+  `miss-on-name`. Don't drill the capital he already has; re-ask under the current
+  name in about ten days to check the new name stuck. Say plainly what the country
+  used to be called.
+
+The renames worth knowing, and worth asking under the new name:
+Eswatini (Swaziland, 2018), Türkiye (Turkey, 2022), Czechia (Czech Republic),
+Cabo Verde (Cape Verde), North Macedonia (Macedonia, 2019), Myanmar (Burma),
+Timor-Leste (East Timor), DR Congo (Zaire), Burkina Faso (Upper Volta),
+Benin (Dahomey), Sri Lanka (Ceylon), Zimbabwe (Rhodesia), Thailand (Siam),
+Iran (Persia), Netherlands (never Holland — that's two provinces).
+
+Also worth it in reverse: capitals that moved or were renamed, where the old
+answer was right once. Astana/Nur-Sultan/Astana again, Kazakhstan's capital moving
+from Almaty in 1997; Myanmar's from Yangon to Naypyidaw in 2005; Nigeria's from
+Lagos to Abuja in 1991; Tanzania's from Dar es Salaam to Dodoma; Brazil's from Rio
+to Brasília in 1960. Accept the old answer, then say when and why it changed —
+these are the best questions in the deck.
+
 ## Spaced repetition
 
 Every miss comes back. Schedule in `log/quiz.md`:

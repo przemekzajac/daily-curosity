@@ -16,7 +16,7 @@ next_review: YYYY-MM-DD | retired
 ## Due for review
 
 - 2026-09-10 — Palau
-- 2026-09-11 — Eswatini
+- 2026-09-18 — Eswatini (name check, not capital)
 - 2026-09-14 — Suriname
 
 ---
@@ -30,8 +30,10 @@ next_review: 2026-09-10
 ## 2026-09-07 — Eswatini
 asked: new
 answer: "no idea"
-result: miss
-next_review: 2026-09-11
+result: miss-on-name — knew Mbabane, did not know Eswatini = Swaziland
+note: capital recall was fine; the rename was the blocker. Re-ask under the
+      current name to check it sticks, not to test the capital.
+next_review: 2026-09-18
 
 ## 2026-09-07 — Suriname
 asked: new
