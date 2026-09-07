@@ -13,3 +13,18 @@ note: what he said, verbatim-ish
 ```
 
 ---
+
+## 2026-09-07 — Cameroon is named after prawns
+flavour: etymology
+rating: unrated
+note: pre-launch calibration sample, sent in the setup session
+
+## 2026-09-07 — The British tax year starts on 6 April
+flavour: why-we-do-x
+rating: unrated
+note: pre-launch calibration sample, sent in the setup session
+
+## 2026-09-07 — Oklo: Earth's natural nuclear reactors
+flavour: space-scale
+rating: unrated
+note: pre-launch calibration sample, sent in the setup session
