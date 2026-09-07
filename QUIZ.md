@@ -11,16 +11,44 @@ Capital Quiz: <Country>?
 
 No hints, no multiple choice, no "this one's tricky". Just the country.
 
-## Difficulty
+## Difficulty — start at tier 2, then follow his hit rate
 
-Hard from day one. The target is the band where he'll get maybe half right:
-Pacific microstates, the Sahel, Central Asia, the Caribbean, Southern Africa,
-recently-moved capitals. Palau, Kiribati, Comoros, Bhutan, Burkina Faso,
-Turkmenistan, Vanuatu, Eswatini, Nauru, Myanmar, Suriname, Brunei, Mauritania,
-Belize, Micronesia, Guinea-Bissau, Lesotho, Djibouti, Chad.
+Aim for a hit rate around 60–70%. Below that it stops being a quiz; above it,
+it stops teaching him anything. He is Polish and European — calibrate "easy"
+accordingly (Ljubljana and Riga are not hard for him; Quito might be).
 
-Never ask one he has already answered correctly, unless it's a scheduled
-spaced-repetition review (see below). Check `log/quiz.md` first, every time.
+**Tier 1 — warm-up.** Should land with a moment's thought.
+Slovenia, Croatia, Latvia, Morocco, Peru, Vietnam, Kenya, Chile, Ireland,
+Hungary, Serbia, Cuba, Iceland, Iraq, Nigeria.
+
+**Tier 2 — the target band.** Knows it or nearly knows it. Start here.
+Ecuador, Ghana, Uzbekistan, Nepal, Jordan, Paraguay, Cameroon, Zambia, Moldova,
+Armenia, Oman, Botswana, Senegal, Laos, Honduras, Tunisia, Georgia, Albania,
+Mongolia, Bolivia, Sri Lanka, Tanzania, Malaysia.
+
+**Tier 3 — deep cuts.** Only once he has earned them.
+Palau, Kiribati, Comoros, Nauru, Bhutan, Burkina Faso, Turkmenistan, Vanuatu,
+Eswatini, Myanmar, Suriname, Brunei, Mauritania, Belize, Micronesia,
+Guinea-Bissau, Lesotho, Djibouti, Chad, Tuvalu, Marshall Islands, Benin.
+
+**Moving between tiers**, on a rolling window of his last five answers:
+
+| Last five | Do this |
+|---|---|
+| 4 or 5 correct | move up a tier |
+| 3 correct | stay |
+| 2 or fewer correct | move down a tier |
+
+Reviews count in the window. Never jump two tiers at once, and never move on
+fewer than five answers — early noise is not a signal. Once he is holding tier 3
+comfortably, stay there and mix in tier 2 roughly one day in four so it does not
+become uniformly brutal.
+
+Never announce the tier, the hit rate, or that difficulty changed. He should feel
+the ramp, not read about it.
+
+Never ask one he has already answered correctly and retired. Check `log/quiz.md`
+first, every time.
 
 ## Marking: be generous, but be specific
 
