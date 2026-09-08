@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-08 — Sweden and Finland bent their border into an S for a lighthouse
+flavour: geography
+rating: unrated
+note:
+
 ## 2026-09-07 — Cameroon is named after prawns
 flavour: etymology
 rating: unrated

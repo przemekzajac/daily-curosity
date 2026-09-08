@@ -5,7 +5,16 @@ Europe/Warsaw, and learns from whether he liked it.
 
 ## How it works
 
-A Routine fires a fresh Claude session each weekday morning. That session:
+A Routine fires **into this ongoing conversation** each weekday morning — not a
+fresh session. That matters for two reasons: the message appears in the thread the
+user is already reading, and the container has push access to this repo, so the
+logs actually persist. A fresh session can clone the repo but cannot push to it,
+which silently breaks dedup, spaced repetition and preference learning.
+
+A second tiny routine fires 12 minutes later purely to raise a push notification,
+since the platform only sends those for fresh-session routines.
+
+Each morning the session:
 
 1. Clones this repo and checks out `claude/daily-curiosity-agent-u8hjuo`.
 2. Reads `BRIEF.md` (the taste), `TASTE.md` (learned refinements) and
@@ -40,11 +49,13 @@ Schedule changes (time, days, pausing) are made on the Routine itself, not here.
 
 | Routine | ID | Schedule |
 |---|---|---|
-| Daily Curiosity — 9am weekdays | `trig_01DnHn2RWcGfEeMhXAEW8PZP` | `0 7 * * 1-5` UTC = 09:00 Europe/Warsaw, Mon–Fri |
-| DST flip | `trig_01GnyGJQsVgbyXCJEZWbAP9n` | one-shot 2026-10-25 |
+| Daily Curiosity + Capital Quiz | `trig_012uAaGywaqHQyFM3nZHDyQZ` | `0 7 * * 1-5` UTC = 09:00 Europe/Warsaw, Mon–Fri. Bound to the ongoing session. |
+| Phone nudge | `trig_01RkHy74bzPHDCaFEe9WDskg` | `12 7 * * 1-5` UTC. Fresh session, does nothing but trigger a push. |
+| DST flip | `trig_01GnyGJQsVgbyXCJEZWbAP9n` | one-shot 2026-10-25. Corrects both crons, then schedules its own successor. |
 
 The cron is stored in UTC, so Warsaw's daylight-saving switches would drift the
 delivery by an hour twice a year. The DST flip routine corrects the cron on each
 switch and schedules the next flip before it exits, so it maintains itself.
 
-Each run fires a fresh session and sends a push notification when it's ready.
+The nudge must stay behind the main routine — if it ever fires first it will
+announce a message that has not been written yet.

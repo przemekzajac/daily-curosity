@@ -21,6 +21,12 @@ next_review: YYYY-MM-DD | retired
 
 ---
 
+## 2026-09-08 — Turkmenistan
+asked: new (tier 3 — rolling window hit 4/5)
+answer:
+result: unanswered
+next_review:
+
 ## 2026-09-07 — Senegal
 asked: new (tier 2)
 answer: "dakar"
