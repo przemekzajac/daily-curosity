@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-09 — The Philippines deleted 31 December 1844
+flavour: why-we-do-x
+rating: unrated
+note:
+
 ## 2026-09-08 — Sweden and Finland bent their border into an S for a lighthouse
 flavour: geography
 rating: unrated
