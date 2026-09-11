@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-11 — The Amazon is fertilised by the Sahara
+flavour: space-scale
+rating: unrated
+note: told with the disputed Bodélé attribution as the twist
+
 ## 2026-09-10 — The bikini is named after a nuclear test
 flavour: etymology
 rating: unrated
