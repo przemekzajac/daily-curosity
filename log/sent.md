@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-14 — Llívia is Spanish because a lawyer wrote "villages" instead of "places"
+flavour: geography
+rating: unrated
+note:
+
 ## 2026-09-11 — The Amazon is fertilised by the Sahara
 flavour: space-scale
 rating: unrated
