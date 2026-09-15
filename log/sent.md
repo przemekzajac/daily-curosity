@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-15 — Spain is on the wrong time because of a decree from March 1940
+flavour: why-we-do-x
+rating: unrated
+note: told with the "gift to Hitler" version flagged as folklore (decree predates the Hendaye meeting)
+
 ## 2026-09-14 — Llívia is Spanish because a lawyer wrote "villages" instead of "places"
 flavour: geography
 rating: unrated
