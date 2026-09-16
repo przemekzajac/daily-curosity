@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-16 — Every "coach" in Europe is named after one Hungarian village
+flavour: etymology
+rating: unrated
+note:
+
 ## 2026-09-15 — Spain is on the wrong time because of a decree from March 1940
 flavour: why-we-do-x
 rating: unrated
