@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-17 — A year used to have 400 days
+flavour: space-scale
+rating: unrated
+note: web search was down; verified via Wikipedia "Tidal acceleration" figures instead
+
 ## 2026-09-16 — Every "coach" in Europe is named after one Hungarian village
 flavour: etymology
 rating: unrated
