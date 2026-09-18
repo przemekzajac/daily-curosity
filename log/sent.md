@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-18 — Canada and Denmark fought a fifty-year war with whisky, then drew a border on a rock
+flavour: geography
+rating: unrated
+note:
+
 ## 2026-09-17 — A year used to have 400 days
 flavour: space-scale
 rating: unrated
