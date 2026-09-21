@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-21 — British plugs are enormous because of a copper shortage in 1942
+flavour: why-we-do-x
+rating: unrated
+note:
+
 ## 2026-09-18 — Canada and Denmark fought a fifty-year war with whisky, then drew a border on a rock
 flavour: geography
 rating: unrated
