@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-22 — "Tulip" is the Turkish word for turban, because of a mistranslation in 1554
+flavour: etymology
+rating: unrated
+note:
+
 ## 2026-09-21 — British plugs are enormous because of a copper shortage in 1942
 flavour: why-we-do-x
 rating: unrated

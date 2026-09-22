@@ -15,18 +15,24 @@ next_review: YYYY-MM-DD | retired
 
 ## Due for review
 
-- 2026-09-22 — Suriname
 - 2026-09-23 — Palau
 - 2026-09-24 — Turkmenistan
 - 2026-09-25 — Eswatini (name check, not capital)
+- 2026-09-28 — Belize
 
 ---
+
+## 2026-09-22 — Suriname
+asked: review (missed 2026-09-07, unanswered 2026-09-15)
+answer:
+result: unanswered
+next_review:
 
 ## 2026-09-21 — Belize
 asked: review (unanswered 2026-09-09, 2026-09-14)
 answer:
 result: unanswered
-next_review:
+next_review: 2026-09-28
 
 ## 2026-09-18 — Eswatini
 asked: review — name check (knew Mbabane on 2026-09-07, did not know Eswatini = Swaziland)
