@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-23 — The biggest mountain in the solar system is too big to see
+flavour: space-scale
+rating: unrated
+note:
+
 ## 2026-09-22 — "Tulip" is the Turkish word for turban, because of a mistranslation in 1554
 flavour: etymology
 rating: unrated
