@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-24 — There is a piece of Africa that no country will claim (Bir Tawil)
+flavour: geography
+rating: unrated
+note:
+
 ## 2026-09-23 — The biggest mountain in the solar system is too big to see
 flavour: space-scale
 rating: unrated
