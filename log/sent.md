@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-25 — Green means "go" because white stopped working
+flavour: why-we-do-x
+rating: unrated
+note: the "broken red lens crash" version flagged as folklore; documented reason is glare from other white lights (Calvert)
+
 ## 2026-09-24 — There is a piece of Africa that no country will claim (Bir Tawil)
 flavour: geography
 rating: unrated
