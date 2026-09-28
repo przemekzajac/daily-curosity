@@ -15,18 +15,24 @@ next_review: YYYY-MM-DD | retired
 
 ## Due for review
 
-- 2026-09-28 — Belize
 - 2026-09-29 — Suriname
 - 2026-09-30 — Palau
 - 2026-10-01 — Turkmenistan
+- 2026-10-02 — Eswatini (name check, not capital)
 
 ---
+
+## 2026-09-28 — Belize
+asked: review (unanswered 2026-09-09, 2026-09-14, 2026-09-21)
+answer:
+result: unanswered
+next_review:
 
 ## 2026-09-25 — Eswatini
 asked: review — name check (unanswered 2026-09-18)
 answer:
 result: unanswered
-next_review:
+next_review: 2026-10-02
 
 ## 2026-09-24 — Turkmenistan
 asked: review (unanswered 2026-09-08, 2026-09-11, 2026-09-17)

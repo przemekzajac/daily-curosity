@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-28 — The canary is named after the islands, the islands after dogs, and the dogs were probably seals
+flavour: etymology
+rating: unrated
+note:
+
 ## 2026-09-25 — Green means "go" because white stopped working
 flavour: why-we-do-x
 rating: unrated
