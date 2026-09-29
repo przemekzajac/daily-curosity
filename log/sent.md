@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-29 — The deepest hole ever dug is 23 centimetres wide (Kola Superdeep Borehole)
+flavour: space-scale
+rating: unrated
+note:
+
 ## 2026-09-28 — The canary is named after the islands, the islands after dogs, and the dogs were probably seals
 flavour: etymology
 rating: unrated
