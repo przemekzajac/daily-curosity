@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-09-30 — Lake Constance has no border on it, and three countries have agreed not to draw one
+flavour: geography
+rating: unrated
+note:
+
 ## 2026-09-29 — The deepest hole ever dug is 23 centimetres wide (Kola Superdeep Borehole)
 flavour: space-scale
 rating: unrated
