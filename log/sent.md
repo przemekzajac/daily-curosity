@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-10-01 — Every aeroplane window is oval because of two crashes in 1954 (de Havilland Comet)
+flavour: why-we-do-x
+rating: unrated
+note: told with the "square passenger window" version flagged — the crack began at the ADF aerial cut-out
+
 ## 2026-09-30 — Lake Constance has no border on it, and three countries have agreed not to draw one
 flavour: geography
 rating: unrated
