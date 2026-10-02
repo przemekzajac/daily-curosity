@@ -14,6 +14,11 @@ note: what he said, verbatim-ish
 
 ---
 
+## 2026-10-02 — Nobody ever threw a clog into a machine (sabotage)
+flavour: etymology
+rating: unrated
+note: myth-as-twist; real chain is saboter = clatter/bungle → Pouget 1897 deliberate bungling
+
 ## 2026-10-01 — Every aeroplane window is oval because of two crashes in 1954 (de Havilland Comet)
 flavour: why-we-do-x
 rating: unrated
